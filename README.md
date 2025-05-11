@@ -37,8 +37,7 @@ Most Python files can be executed using:
 
 ```bash
 ./filename.py
-
-
+```
 Files such as factorial.py, checkbook.py, and tic.py require user interaction through input prompts.
 
 To run the HTML file:
@@ -46,24 +45,24 @@ To run the HTML file:
 Open change_background.html in any modern web browser.
 
 ## 📌 Requirements
-Python 3.8 or higher
 
-Basic understanding of:
+- Python 3.8 or higher  
+- Input handling (`input()`, `sys.argv`)  
+- Conditional logic and loops  
+- Exception handling (`try/except`)  
+- HTML and JavaScript DOM basics
 
-Input handling (input(), sys.argv)
+---
 
-Conditional logic and loops
+## ✅ Notes
 
-Exception handling (try/except)
+This project demonstrates the importance of debugging, validation, and documentation.  
+It follows best practices for clean and functional code.
 
-HTML structure and JavaScript DOM manipulation
 
 ## 👤 Author
 
-This repository is part of the Holberton School Foundations curriculum.
-All debugging, enhancements, and documentation were completed manually or with assistance from ChatGPT for guidance and clarification where needed.
+This repository is part of the Holberton School Foundations curriculum.  
+All debugging, enhancements, and documentation were completed by **Miad Alzahrani**, with additional guidance provided by ChatGPT where needed.
 
-## ✅ Notes
-This project demonstrates the importance of structured debugging, input validation, and clear code documentation.
-It also reinforces best practices for maintaining readable and functional code in both Python and web development.
 
