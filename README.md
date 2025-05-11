@@ -45,7 +45,7 @@ To run the HTML file:
 
 Open change_background.html in any modern web browser.
 
-## Requirements📌
+## 📌 Requirements
 Python 3.8 or higher
 
 Basic understanding of:
@@ -58,11 +58,12 @@ Exception handling (try/except)
 
 HTML structure and JavaScript DOM manipulation
 
-## Author👤
+## 👤 Author
+
 This repository is part of the Holberton School Foundations curriculum.
 All debugging, enhancements, and documentation were completed manually or with assistance from ChatGPT for guidance and clarification where needed.
 
- ## Notes✅
+## ✅ Notes
 This project demonstrates the importance of structured debugging, input validation, and clear code documentation.
 It also reinforces best practices for maintaining readable and functional code in both Python and web development.
 
